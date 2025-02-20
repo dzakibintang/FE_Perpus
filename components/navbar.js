@@ -10,7 +10,7 @@ export default function Navbar() {
     <header>
       <nav className="navbar navbar-expand-md navbar-dark bg-dark fixed-top shadow-sm">
         <div className="container">
-          <Link className="navbar-brand" href="/">Next & Laravel CRUD</Link>
+          <Link className="navbar-brand" href="/">PERPUSTAKAAN</Link>
           <button
             className="navbar-toggler"
             type="button"
